@@ -13,4 +13,6 @@ file_1:包含词典内容的文件
 ，然后如果该文件行内容存在于评论文件行内容中，则先检查word_list是否已经存在这个关注点，如果没有的话就加进word_list中，当每一行的评论关注点
 找全后，以追加的形式添加进result_file中关注点之间用'\t'分割，之后用'\n'分割每一行
 
-抱歉，在上传图片时遇到了些问题，upload file选择文件后传输发送错误码500，查找原因中
+测试结果图片在branch img中可以找到
+
+![测试结果](https://github.com/yupwei/PythonStudy/edit/img/测试结果.png)
